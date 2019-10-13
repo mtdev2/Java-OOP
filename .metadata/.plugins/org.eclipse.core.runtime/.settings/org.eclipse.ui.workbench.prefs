@@ -1,0 +1,8 @@
+//org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.wst.sse.ui
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.wst.sse.ui.textfont
+PLUGINS_NOT_ACTIVATED_ON_STARTUP=;org.eclipse.m2e.discovery;
+WORKBENCH_SAVE_INTERVAL=3
+eclipse.preferences.version=1
+org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<org.eclipse.ui.commands/>
+org.eclipse.wst.sse.ui.textfont=1|Consolas|13.8|0|WINDOWS|1|-23|0|0|0|400|0|0|0|0|3|2|1|49|Consolas;

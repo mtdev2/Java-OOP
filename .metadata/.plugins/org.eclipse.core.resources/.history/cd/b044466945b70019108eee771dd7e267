@@ -1,0 +1,5 @@
+package com.akshay_java.phone;
+
+public class Iphone extends PhoneClass implements Ringable {
+	
+}

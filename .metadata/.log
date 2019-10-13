@@ -1,0 +1,1167 @@
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:31.524
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:31.526
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:31.527
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:31.527
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:31.528
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:31.589
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:32.910
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:32.911
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:32.912
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:32.914
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:32.915
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:32.925
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 02:53:32.958
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 02:53:32.974
+!MESSAGE Could not write metadata for '/Bank Account'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Bank Account\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:33.145
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:33.146
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:33.147
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:33.149
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:33.150
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:33.155
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:45.489
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:45.490
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:45.492
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:45.493
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:45.493
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 02:53:45.496
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 4 0 2019-08-04 02:53:49.584
+!MESSAGE org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+!STACK 0
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:357)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:1895)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.lambda$11(LSBasedHover.java:236)
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:193)
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382)
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482)
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:472)
+	at java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:708)
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
+	at org.eclipse.lsp4e.operations.hover.LSBasedHover.lambda$10(LSBasedHover.java:245)
+	at java.util.concurrent.CompletableFuture.uniApply(CompletableFuture.java:602)
+	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:577)
+	at java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:443)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Internal error.
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4e.LanguageServerWrapper.lambda$1(LanguageServerWrapper.java:214)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+!ENTRY org.eclipse.ui 2 2 2019-08-04 02:53:52.417
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 02:59:18.801
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 02:59:18.811
+!MESSAGE Could not write metadata for '/Bank Account'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Bank Account\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 03:00:22.008
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 03:00:22.009
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 03:00:22.011
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 03:00:22.013
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 03:00:22.014
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 03:00:22.021
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 03:05:21.886
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 03:05:21.905
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:12.191
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:12.192
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:12.194
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:12.196
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:12.197
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:12.204
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:21.876
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:21.876
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:21.878
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:21.880
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:21.881
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:46:21.885
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:42.986
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:42.987
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:42.989
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:42.990
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:42.991
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:42.994
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:54.477
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:54.478
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:54.480
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:54.482
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:54.483
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:48:54.486
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:50:03.631
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:50:03.632
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:50:03.633
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:50:03.634
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:50:03.635
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:50:03.638
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 22:51:09.342
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 22:51:09.356
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:51:41.871
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:51:41.872
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:51:41.873
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:51:41.875
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:51:41.876
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:51:41.879
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:03.588
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:03.589
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:03.591
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:03.593
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:03.594
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:03.598
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:17.701
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:17.702
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:17.704
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:17.706
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:17.707
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:52:17.711
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.ui 4 0 2019-08-04 22:52:40.027
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.e4.core.di.InjectionException: java.lang.NullPointerException
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:68)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler$1.run(UIEventObjectSupplier.java:67)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:146)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4580)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:361)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:194)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:205)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.showMenu(MenuManagerShowProcessor.java:258)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerShowProcessor.menuAboutToHide(MenuManagerShowProcessor.java:115)
+	at org.eclipse.jface.internal.MenuManagerEventHelper.showEventPostHelper(MenuManagerEventHelper.java:95)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:472)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:466)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:498)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1056)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1080)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1061)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5132)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4788)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1501)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2138)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:635)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:559)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:660)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:597)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1468)
+Caused by: java.lang.NullPointerException
+	at org.eclipse.tm4e.ui.internal.menus.ThemeContribution.getContributionItems(ThemeContribution.java:59)
+	at org.eclipse.ui.actions.CompoundContributionItem.getContributionItemsToFill(CompoundContributionItem.java:83)
+	at org.eclipse.ui.actions.CompoundContributionItem.fill(CompoundContributionItem.java:57)
+	at org.eclipse.ui.internal.menus.DynamicMenuContributionItem.fill(DynamicMenuContributionItem.java:146)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:728)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:805)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:672)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1223)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicAllRenderedVisibility(MenuManagerRenderer.java:218)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	... 64 more
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:39.436
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:39.437
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:39.439
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:39.441
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:39.442
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:39.446
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:55.969
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:55.970
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:55.971
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:55.973
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:55.974
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:53:55.978
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:54:06.370
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:54:06.372
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:54:06.374
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:54:06.376
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:54:06.377
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:54:06.380
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:55:18.727
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:55:18.728
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:55:18.729
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:55:18.731
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:55:18.732
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:55:18.735
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:56:10.130
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:56:10.131
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:56:10.133
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:56:10.135
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:56:10.136
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:56:10.139
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 22:56:41.818
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 22:56:41.830
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:09.251
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:09.252
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:09.253
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:09.256
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:09.257
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:09.260
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:17.491
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:17.492
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:17.493
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:17.495
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:17.495
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:17.498
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:29.835
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:29.836
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:29.837
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:29.840
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:29.841
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:57:29.844
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:10.303
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:10.304
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:10.306
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:10.307
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:10.308
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:10.310
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:35.668
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:35.669
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:35.671
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:35.673
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:35.673
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:58:35.676
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:01.687
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:01.687
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:01.689
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:01.692
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:01.693
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:01.696
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:06.742
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:06.743
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:06.745
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:06.747
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:06.748
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 22:59:06.751
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:03.007
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:03.008
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:03.010
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:03.012
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:03.013
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:03.016
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:32.577
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:32.579
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:32.580
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:32.583
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:32.584
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:00:32.587
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:04.501
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:04.502
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:04.503
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:04.505
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:04.505
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:04.508
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:20.055
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:20.057
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:20.058
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:20.061
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:20.062
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:20.064
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:52.274
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:52.275
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:52.277
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:52.279
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:52.280
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:01:52.283
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 23:02:09.144
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 23:02:09.156
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:02:45.084
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:02:45.085
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:02:45.087
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:02:45.089
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:02:45.090
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:02:45.092
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:04:07.388
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:04:07.389
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:04:07.390
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:04:07.392
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:04:07.393
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-04 23:04:07.397
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-04 23:07:44.420
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-04 23:07:44.431
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.237
+!MESSAGE Preparing classpath changed notification Calculator
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.274
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.277
+!MESSAGE classpath=19 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.279
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Calculator false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.280
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.307
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-05 12:29:46.328
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-05 12:29:46.380
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.539
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.540
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.541
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.542
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.543
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:46.546
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:49.048
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:49.049
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:49.051
+!MESSAGE classpath=37 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:49.054
+!MESSAGE buffering callback sts4.classpath.vZyoLSuW Phone false 19
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:49.055
+!MESSAGE executing callback sts4.classpath.vZyoLSuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 12:29:49.057
+!MESSAGE executing callback sts4.classpath.vZyoLSuW SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-05 12:34:49.015
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.resources 4 568 2019-08-05 12:34:49.026
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers.snap (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1774)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSnap(SaveManager.java:1855)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1210)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1151)
+	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:55)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 13:35:18.601
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vZyoLSuW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 13:35:18.603
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.vZyoLSuW
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 13:35:18.604
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2019-08-05 13:35:18.605
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vZyoLSuW => OK
+
+!ENTRY org.eclipse.core.resources 4 2 2019-08-05 13:35:19.004
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 0
+java.lang.IllegalStateException: Registry Directory not available: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.pde.core\.p2\org.eclipse.equinox.p2.engine\profileRegistry.
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.restore(SimpleProfileRegistry.java:525)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfileMap(SimpleProfileRegistry.java:379)
+	at org.eclipse.equinox.internal.p2.engine.SimpleProfileRegistry.getProfiles(SimpleProfileRegistry.java:361)
+	at org.eclipse.pde.internal.core.target.P2TargetUtils.cleanOrphanedTargetDefinitionProfiles(P2TargetUtils.java:234)
+	at org.eclipse.pde.internal.core.PDECore$1.saving(PDECore.java:329)
+	at org.eclipse.core.internal.resources.SaveManager.executeLifecycle(SaveManager.java:387)
+	at org.eclipse.core.internal.resources.SaveManager$1.run(SaveManager.java:204)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.resources.SaveManager.broadcastLifecycle(SaveManager.java:207)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1172)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2338)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:509)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.core.resources 4 566 2019-08-05 13:35:19.016
+!MESSAGE Could not save master table to file 'D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources.bak'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources.bak (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:133)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:48)
+	at org.eclipse.core.internal.localstore.SafeChunkyOutputStream.<init>(SafeChunkyOutputStream.java:44)
+	at org.eclipse.core.internal.resources.SaveManager.saveMasterTable(SaveManager.java:1273)
+	at org.eclipse.core.internal.resources.SaveManager.cleanMasterTable(SaveManager.java:240)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1181)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2338)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:509)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.ui.ide 4 4 2019-08-05 13:35:22.942
+!MESSAGE Problems saving workspace
+
+!ENTRY org.eclipse.ui.ide 4 1 2019-08-05 13:35:22.943
+!MESSAGE Problems occurred while trying to save the state of the workbench.
+!SUBENTRY 1 org.eclipse.core.resources 4 568 2019-08-05 13:35:22.943
+!MESSAGE Could not write metadata for '/Object Master'.
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Object Master\.markers (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at org.eclipse.core.internal.localstore.SafeFileOutputStream.<init>(SafeFileOutputStream.java:55)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSave(SaveManager.java:1666)
+	at org.eclipse.core.internal.resources.SaveManager.visitAndSave(SaveManager.java:1745)
+	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1185)
+	at org.eclipse.core.internal.resources.Workspace.save(Workspace.java:2338)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.lambda$1(IDEWorkbenchAdvisor.java:509)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY com.genuitec.eclipse.monitor 4 0 2019-08-05 13:35:23.914
+!MESSAGE D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\com.genuitec.eclipse.monitor\myeclipse-usage.properties (The system cannot find the path specified)
+!STACK 0
+java.io.FileNotFoundException: D:\Coding Dojo\java_stack\java_stack_workspace\.metadata\.plugins\com.genuitec.eclipse.monitor\myeclipse-usage.properties (The system cannot find the path specified)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(FileOutputStream.java:270)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+	at com.genuitec.eclipse.monitor.internal.collector.server.ServerMetricsCollector.saveToFile(ServerMetricsCollector.java:395)
+	at com.genuitec.eclipse.monitor.internal.collector.server.ServerMetricsCollector.stopMonitoring(ServerMetricsCollector.java:223)
+	at com.genuitec.eclipse.monitor.internal.MetricsManager.stopMonitoring(MetricsManager.java:259)
+	at com.genuitec.eclipse.monitor.internal.MetricsManager.dispose(MetricsManager.java:182)
+	at com.genuitec.eclipse.monitor.internal.MonitorPlugin.stop(MonitorPlugin.java:43)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:899)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl$4.run(BundleContextImpl.java:1)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.stop(BundleContextImpl.java:891)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.stopWorker0(EquinoxBundle.java:1027)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$EquinoxModule.stopWorker(EquinoxBundle.java:370)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:653)
+	at org.eclipse.osgi.container.Module.stop(Module.java:515)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.decStartLevel(ModuleContainer.java:1861)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1753)
+	at org.eclipse.osgi.container.SystemModule.stopWorker(SystemModule.java:275)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule.stopWorker(EquinoxBundle.java:202)
+	at org.eclipse.osgi.container.Module.doStop(Module.java:653)
+	at org.eclipse.osgi.container.Module.stop(Module.java:515)
+	at org.eclipse.osgi.container.SystemModule.stop(SystemModule.java:207)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle$SystemBundle$EquinoxSystemModule$1.run(EquinoxBundle.java:220)
+	at java.lang.Thread.run(Thread.java:748)
